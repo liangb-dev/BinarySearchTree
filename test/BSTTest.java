@@ -63,6 +63,7 @@ class BSTTest {
         unbalancedBst.printTree(TRAV_TYPE);
     }
 
+    
     @Test
     public void buildBST1() {
         ArrayList<Integer> arr = new ArrayList<>();
